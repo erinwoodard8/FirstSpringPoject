@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+    color: salmon;
+    font-family: 'Girassol', cursive;
+    font-size: 60px;
+}
+.video {
+    text-align: center;
+    width: 100%;
+}
+iframe{
+    width: 500px;
+}
+
+.homepageLink {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    text-align: center;
+    font-size: 18px
+
+}
